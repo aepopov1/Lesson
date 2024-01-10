@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lesson6_methods_HW {
+public class Lesson6_methods_task1 {
 
     /**
      * Написать программу, которая принимает строку с клавиатуры.

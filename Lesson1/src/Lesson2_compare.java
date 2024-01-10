@@ -1,4 +1,4 @@
-public class Lesson2_sravnenie {
+public class Lesson2_compare {
 
     public static void main(String[] args) {
 

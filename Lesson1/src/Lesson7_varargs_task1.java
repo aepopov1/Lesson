@@ -11,7 +11,7 @@
  * Реализацию конкатенации строк вынести в отдельный метод.
  */
 
-public class Lesson7_varargs_HW {
+public class Lesson7_varargs_task1 {
     public static void main(String[] args) {
         String z = concat("1","2","пример","проверка");
         System.out.println(z);

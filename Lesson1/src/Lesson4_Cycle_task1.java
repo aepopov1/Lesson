@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lesson4_Cycle_HW {
+public class Lesson4_Cycle_task1 {
     public static void main(String[] args) {
         Scanner number = new Scanner(System.in);
 

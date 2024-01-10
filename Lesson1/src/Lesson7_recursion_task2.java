@@ -4,7 +4,7 @@
  * Вывести в консоль сумму всех элементов полученного массива.
  * Нахождение простых чисел и вычисление суммы реализовать, используя рекурсивные методы
  */
-public class Lesson7_recursion_HW2 {
+public class Lesson7_recursion_task2 {
     static int[] sampleNum = new int[10]; //создадим массив для рекурсии
     //sampleNum[0] = 2; // хм. интересно, почему не работает тут
     public static void main(String[] args) {

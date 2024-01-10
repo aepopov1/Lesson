@@ -1,7 +1,6 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Lesson5_massiv_HW {
+public class Lesson5_massiv_task1 {
     public static void main(String[] args) {
         //создать массив char. Положить в него побуквенно свое имя и вывести имя. Как с помощью String так и без него
 

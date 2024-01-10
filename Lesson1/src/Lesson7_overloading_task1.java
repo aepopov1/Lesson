@@ -21,7 +21,7 @@
  * Используйте перегрузку — у всех методов должны быть одинаковые названия.
  */
 
-public class Lesson7_overloading_HW {
+public class Lesson7_overloading_task1 {
     public static void main(String[] args) {
         System.out.println(sum(1,2,3,4,5,6));
         System.out.println(sum((byte)1,(byte)2,(byte)3,(byte)4));

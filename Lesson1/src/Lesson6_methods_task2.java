@@ -15,7 +15,7 @@ import java.util.Scanner;
  * Также максимальное и минимальное значение int содержится в константах
  * Integer.MIN_VALUE и Integer.MAX_VALUE соответственно.
  */
-public class Lesson6_methods_HW2 {
+public class Lesson6_methods_task2 {
     public static void main(String[] args) {
 //        Создаем сканер для чтения с клавиатуры
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Lesson2_vivod_ekran {
+public class Lesson2_Scanner {
     public static void main(String[] args) {
         String name = "Sasha";
         float height = 80.5f;

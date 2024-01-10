@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 /**
  * Вычислите результат выражения, используя рекурсивный алгоритм.
@@ -7,7 +6,7 @@ import java.util.Scanner;
  * <p>
  * Выражение: √(1 + √(2 + ... + √n)))
  */
-public class Lesson7_recursion_HW {
+public class Lesson7_recursion_task1 {
     //метод расчета фиббоначи. На вход подается количество циклов фиббоначчи
     //используется рекурсия
 

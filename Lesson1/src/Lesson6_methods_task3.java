@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Каждая единица длины должна обозначаться одним символом “-“, каждая единица ширины – символом “|“.
  * Произвести декомпозицию по своему усмотрению. Рекомендую скинуть на проверку. Контакт ниже.
  */
-public class Lesson6_methods_HW3 {
+public class Lesson6_methods_task3 {
     
     public static void main(String[] args) {
 
